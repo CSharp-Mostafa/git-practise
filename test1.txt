@@ -3,8 +3,8 @@ From anisol islam.
 He is a software developer and also a youtuber.
 He make video for studenets without any fee...
 He complete his hsc in 2008..
+He complete his msc in 2021..
 Now it's done in git hub...
 And i'm pushing it with third commit
-Now i am finally practise with anisul islam and i will be 
-fourth commit.. 
+Now i am finally practise with anisul islam and i will be fourth commit.. 
 Now i am trying remote to local and it will be fifth commit.
